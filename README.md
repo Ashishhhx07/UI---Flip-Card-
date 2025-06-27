@@ -7,16 +7,19 @@ Designed to be responsive and keyboard-friendly using the `:focus-within` pseudo
 
 ---
 
-👤 About the Developer
+## 👤 About the Developer
+
 <img src="ashish.jpg" alt="Ashish Ranjan" width="140" style="border-radius: 12px; margin-right: 20px;" align="left" />
-Ashish Ranjan
-🚀 Developer of this Effect
-💬 "I believe in building simple tech that solves real-world public problems."
-🔗 GitHub: Ashishhhx07
+
+**Ashish Ranjan**  
+🚀 Developer of this game  
+💬 "I believe in building simple tech that solves real-world public problems."  
+🔗 GitHub: [Ashishhhx07](https://github.com/Ashishhhx07)
 
 <br clear="left" />
 
 ---
+
 
 ## ✨ Features
 
@@ -30,14 +33,11 @@ Ashish Ranjan
 
 ## 📸 Demo Screenshot
 
-> *(You can upload a screenshot in your GitHub repo and replace this URL)*
 
 ![Flip Card Screenshot](SS1.png)
 ![Flip Card Screenshot](SS2.png)
 
 ---
-
-## 🚀 Getting Started
 
 ### 📁 Clone This Repo
 ```bash
