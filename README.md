@@ -5,6 +5,8 @@ Designed to be responsive and keyboard-friendly using the `:focus-within` pseudo
 
 [🔗 Live Demo on CodePen](https://codepen.io/giellzsf-the-bashful/pen/xbGBZPP)
 
+![demo gif](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
 ---
 
 ## 👤 About the Developer
@@ -55,5 +57,18 @@ Flip-Card/
 ├── ashish.jpg       # Developer image for README
 ├── LICENSE.txt
 └── README.md
+
+---
+
+## 🌍 Browser Compatibility
+
+| Browser      | Supported |
+|--------------|-----------|
+| Chrome       | ❌        |
+| Firefox      | ✅        |
+| Edge         | ✅        |
+| Safari       | ✅        |
+| Opera        | ✅        |
+| Mobile Browsers | ✅     |
 
 ---
